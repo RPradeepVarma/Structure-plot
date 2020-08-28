@@ -43,5 +43,5 @@ NSL50449        0.559950        0.440050
 PI285042.2      0.570699        0.429301
 
 # Output
-![PAV image](https://github.com/pradeepruperao/Structure-plot/blob/master/structure.jpg)
+![Structure image](https://github.com/RPradeepVarma/Structure-plot/blob/master/structure.jpg)
 Structure.svg
